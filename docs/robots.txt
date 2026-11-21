@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://atdnorthlondon.co.uk/sitemap.xml
