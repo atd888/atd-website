@@ -1,0 +1,33 @@
+ATD ISOLATED PUBLIC-WEBSITE STAGING
+Prepared: 2026-11-02 20:47:04 UTC
+
+Business: ATD North London Painters / AT DERMYSHI LTD
+Intended public origin: https://atdnorthlondon.co.uk
+Canonical working source copied from: /Users/landi/Documents/Codex/2026-10-27/atd-painting-decorating/work/atd-premium-site
+Isolated staging directory: /Users/landi/Documents/Codex/2026-10-27/atd-painting-decorating/work/atd-public-site
+
+Copied: current dist website, public client-form files, responsive ATD photo assets, build_site.py, check_site.py, seo_helpers.py, seo-settings.json, photo-selection.json.
+Not copied: source-photo backups/originals, owner dashboard/demo, live customer records, backend source or server secrets, private environment files, canonical hosting identity, archive history or external media tools.
+
+The build is reproducible from these retained files with standard Python and Node syntax checks. No photo-regeneration helper, external original-media path or package installation is required for this build.
+
+At handoff: noindex remains on all HTML, robots remains Disallow: /, enquiry submissionEnabled remains false. Local-only staging preparation is complete; this file does not assert that any Site has been registered, pushed, deployed, or connected to the domain.
+
+The user approved publishing the finished ATD website. The root agent owns creation/verification of the new Site, source synchronisation and publication, and will coordinate readiness before changing indexing or enquiry configuration. This staging task made no live changes to DNS, Google, Resend, Supabase, backend resources, bookings, customer data or payments.
+
+Hello Honey (hello-honey.co.uk) remains a separate protected project. No Hello Honey identity, media, data or credentials are included or authorised for reuse here.
+
+AUTHORISED LAUNCH INDEXING — 2026-11-02 20:59:51 UTC
+The user approved publication of the finished ATD website at atdnorthlondon.co.uk. In this isolated staging copy only, seo-settings.json now has indexing_enabled=true. Exactly nine marketing pages are index,follow. Legal/offer/form/404/legacy alias pages remain noindex. robots allows crawling and declares the canonical nine-URL sitemap. The original local preview source is unchanged and remains blocked. Enquiry submission configuration and hosting metadata are unchanged by this indexing task. No deployment or backend action was performed by this task.
+
+FINAL FORM RELEASE PREPARATION — 2026-11-02 21:34:03 UTC
+The root agent prepared dist/enquiry/client-config.js with submissionEnabled=true and verificationEnabled=true, endpoint targeting ATD project ujopvetvzfxgcxrphonx. allowedOrigins and parentOrigins contain only https://atdnorthlondon.co.uk. The exact new-domain origin passes the current public JavaScript readiness guard; LAN/local/file/old GitHub/www/HTTP/Hello Honey/unrelated origins fail before fetch. maxPhotoUploads remains0. Only a public Supabase publishable key is present; no server secret was copied.
+
+At this audit, the final enabled form settings are prepared in staging and have not been deployed by this subtask. Root reports the earlier private candidate and active custom-domain/SSL setup; those facts do not establish deployment or delivery verification of this later form configuration. Backend deployment and the final release remain under the root agent’s coordination. No real enquiry, verification email, owner email, database write or payment was made by this audit.
+
+Focused checks passed against the actual ready()/callFunction() source with a fetch stub: wrong origins throw before any fetch. The staged/source payload scan found no owner/dashboard demo, backend folder, original HEICs, archives, environment/private-key/Resend-secret patterns or owner demo fixtures. Canonical working preview submissionEnabled=false remains unchanged. Hosting metadata was read only and the Site ID matches appgprj_6ae8f6ef54808191910b2942c442936c.
+
+No rebuild was run: the final configuration was preserved. README/PUBLISHING are the only files changed by this audit. The root agent should update release evidence after final deployment and any authorised delivery test.
+
+REBUILD CONFIGURATION GUARD — 2 November 2026, 22:05 London
+Staging build_site.py now calls publish_client_settings.py before generating pages. The helper validates the exact existing ATD project endpoint and public key, then enables the form only for the explicit production indexing flag plus the exact naked HTTPS domain. Production allowedOrigins and parentOrigins are regenerated as that one origin; disabled preview input remains disabled when indexing is off. Unexpected domain/project/key/private browser fields abort the build before page generation. Ten temporary-fixture checks pass, including byte-equivalent production settings reconstructed from the disabled canonical input. No full rebuild, dist file, SEO setting, hosting manifest, canonical preview, source sync or external service changed in this subtask. Root will coordinate the pending content merge/full build/release.
