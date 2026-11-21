@@ -1,0 +1,465 @@
+[
+  {
+    "id": "vinyl-wallpaper-corridor",
+    "title": "Vinyl wallpaper, along the corridor",
+    "service": "wallpapering",
+    "text": "Textured vinyl wallpaper installed by ATD along a corridor, with closer views of the corners, doorways and projecting wall sections. These photographs show the wallcovering with floor protection still in place during the finishing stage.",
+    "photos": [
+      {
+        "slug": "vinyl-wallpaper-corridor-06",
+        "caption": "A long view of the wallpapered corridor"
+      },
+      {
+        "slug": "vinyl-wallpaper-corridor-01",
+        "caption": "An angled view of the vinyl wallcovering"
+      },
+      {
+        "slug": "vinyl-wallpaper-corridor-03",
+        "caption": "Vinyl wallpaper around a projecting corner"
+      },
+      {
+        "slug": "vinyl-wallpaper-corridor-05",
+        "caption": "Wallpaper around doorways and wall sections"
+      },
+      {
+        "slug": "vinyl-wallpaper-corridor-02",
+        "caption": "The textured finish at an external corner"
+      },
+      {
+        "slug": "vinyl-wallpaper-corridor-04",
+        "caption": "Textured vinyl wallpaper along the corridor"
+      }
+    ],
+    "work_shown": [
+      "Textured vinyl wallcovering along the corridor",
+      "Details around doorways, corners and projecting walls"
+    ],
+    "service_label": "Wallpapering"
+  },
+  {
+    "id": "extension",
+    "title": "An extension, stage by stage",
+    "service": "full-refurbishments",
+    "text": "Groundworks, blockwork, roofing and internal preparation: photographs of a larger ATD project during construction. These show stages of the build, rather than a completed extension.",
+    "photos": [
+      {
+        "slug": "project-story-136",
+        "caption": "Groundworks and trench preparation",
+        "source_photo_id": 136
+      },
+      {
+        "slug": "project-story-158",
+        "caption": "Blockwork taking shape",
+        "source_photo_id": 158
+      },
+      {
+        "slug": "project-story-023",
+        "caption": "Roof structure and insulation",
+        "source_photo_id": 23
+      },
+      {
+        "slug": "project-story-026",
+        "caption": "Roof covering",
+        "source_photo_id": 26
+      },
+      {
+        "slug": "project-story-028",
+        "caption": "Internal insulation and framing",
+        "source_photo_id": 28
+      },
+      {
+        "slug": "project-story-043",
+        "caption": "Boarded interior",
+        "source_photo_id": 43
+      },
+      {
+        "slug": "project-story-044",
+        "caption": "Exterior and patio work in progress",
+        "source_photo_id": 44
+      }
+    ],
+    "work_shown": [
+      "Groundworks, blockwork and roof stages",
+      "Insulation and internal boarding during construction"
+    ],
+    "area": "New Barnet",
+    "service_label": "Property refurbishment"
+  },
+  {
+    "id": "green-facade",
+    "title": "A fresh face in white and green",
+    "service": "exterior-painting",
+    "text": "The same facade before and after exterior decorating, with white architectural details and green doors. Compare the earlier surfaces with the renewed exterior.",
+    "photos": [
+      {
+        "slug": "project-story-160",
+        "caption": "Before exterior decorating",
+        "source_photo_id": 160
+      },
+      {
+        "slug": "project-story-164",
+        "caption": "The renewed white and green facade",
+        "source_photo_id": 164
+      }
+    ],
+    "work_shown": [
+      "Exterior surface preparation and repainting",
+      "White architectural details and green doors"
+    ],
+    "service_label": "Exterior decorating"
+  },
+  {
+    "id": "red-exterior",
+    "title": "Colour across the exterior",
+    "service": "exterior-painting",
+    "text": "Two stages of an exterior project: work under way around the rear facade, followed by a wider view of the red-and-cream finish.",
+    "photos": [
+      {
+        "slug": "project-story-249",
+        "caption": "During the exterior work",
+        "source_photo_id": 249
+      },
+      {
+        "slug": "project-story-259",
+        "caption": "The red-and-cream exterior finish",
+        "source_photo_id": 259
+      }
+    ],
+    "work_shown": [
+      "Decorating work around the exterior",
+      "Red-and-cream paintwork shown from wider views"
+    ],
+    "service_label": "Exterior decorating"
+  },
+  {
+    "id": "yellow-door",
+    "title": "A brighter entrance",
+    "service": "exterior-painting",
+    "text": "A yellow front door framed by renewed white entrance surrounds and low boundary walls. The preparation photo shows scaffolding and patched surfaces; the later view shows the fresh paintwork with protection and equipment still in place for final touches.",
+    "photos": [
+      {
+        "slug": "project-story-224",
+        "caption": "Door surround during preparation",
+        "source_photo_id": 224
+      },
+      {
+        "slug": "project-story-245",
+        "caption": "Yellow doorway at the finishing stage",
+        "source_photo_id": 245
+      }
+    ],
+    "work_shown": [
+      "Preparation around the entrance and low boundary walls",
+      "Fresh white paintwork framing the yellow front door"
+    ],
+    "service_label": "Exterior decorating",
+    "area": "Stamford Hill, N16",
+    "page": "/projects/stamford-hill-exterior/",
+    "review": {
+      "name": "John Burgess",
+      "rating": 5,
+      "excerpt": "Thorough preparation and great attention to detail.",
+      "url": "https://www.google.com/maps/contrib/110196861637734664425/reviews?hl=en-GB",
+      "verified_on": "2026-11-16"
+    },
+    "shared_project_group": "stamford-hill-john-burgess"
+  },
+  {
+    "id": "sash-window",
+    "title": "Care around a sash window",
+    "service": "exterior-painting",
+    "text": "Peeling paint and surface preparation give way to a white painted finish. These matching views show why the smaller details matter.",
+    "photos": [
+      {
+        "slug": "project-story-180",
+        "caption": "Window before the new finish",
+        "source_photo_id": 180
+      },
+      {
+        "slug": "project-story-188",
+        "caption": "White painted window finish",
+        "source_photo_id": 188
+      }
+    ],
+    "work_shown": [
+      "Preparation of peeling window paintwork",
+      "White finish around the frame, glazing bars and sill"
+    ],
+    "service_label": "Exterior decorating"
+  },
+  {
+    "id": "timber-floor",
+    "title": "Timber floors, brought back into focus",
+    "service": "full-refurbishments",
+    "text": "Matching views of the room show the floor before finishing and the renewed timber surface. The fireplace and doors provide the same-room reference.",
+    "photos": [
+      {
+        "slug": "project-story-106",
+        "caption": "Floor before finishing",
+        "source_photo_id": 106
+      },
+      {
+        "slug": "project-story-112",
+        "caption": "Renewed timber floor",
+        "source_photo_id": 112
+      }
+    ],
+    "work_shown": [
+      "The room before floor finishing",
+      "Renewed timber flooring in matching room views"
+    ],
+    "service_label": "Property refurbishment",
+    "area": "Stamford Hill, N16",
+    "page": "/projects/stamford-hill-exterior/",
+    "review": {
+      "name": "John Burgess",
+      "rating": 5,
+      "excerpt": "Thorough preparation and great attention to detail.",
+      "url": "https://www.google.com/maps/contrib/110196861637734664425/reviews?hl=en-GB",
+      "verified_on": "2026-11-16"
+    },
+    "shared_project_group": "stamford-hill-john-burgess"
+  },
+  {
+    "id": "terrace",
+    "title": "From terrace framework to decking",
+    "service": "full-refurbishments",
+    "text": "The same terrace during the framework stage and with the decking laid. A useful look at exterior refurbishment beyond painted surfaces.",
+    "photos": [
+      {
+        "slug": "project-story-057",
+        "caption": "Timber framework in progress",
+        "source_photo_id": 57
+      },
+      {
+        "slug": "project-story-058",
+        "caption": "Decking laid on the terrace",
+        "source_photo_id": 58
+      }
+    ],
+    "work_shown": [
+      "Timber support framework",
+      "Decking laid across the terrace"
+    ],
+    "area": "Crouch End, N8",
+    "service_label": "Property refurbishment",
+    "review": {
+      "name": "Julian Smilg",
+      "rating": 5,
+      "excerpt": "Delighted to have selected Landi to work on my flat.",
+      "url": "https://www.google.com/maps/contrib/113747680403038343533/reviews?hl=en-GB",
+      "verified_on": "2026-11-16",
+      "mapping_confirmed_by": "owner",
+      "shared_project_group": "crouch-end-coral-and-terrace"
+    },
+    "page": "/projects/crouch-end-redecoration/"
+  },
+  {
+    "id": "entrance-tiles",
+    "title": "Pattern at the front step",
+    "service": "full-refurbishments",
+    "text": "Geometric entrance tiles, first being laid and then seen as a completed pattern beneath the steps. Detail photographs show the layout as it comes together.",
+    "photos": [
+      {
+        "slug": "project-story-071",
+        "caption": "Entrance tiles being laid",
+        "source_photo_id": 71
+      },
+      {
+        "slug": "project-story-073",
+        "caption": "The completed entrance tile pattern",
+        "source_photo_id": 73
+      }
+    ],
+    "work_shown": [
+      "Setting out and laying the entrance tiles",
+      "The completed geometric pattern below the steps"
+    ],
+    "service_label": "Property refurbishment",
+    "area": "Stamford Hill, N16",
+    "page": "/projects/stamford-hill-exterior/",
+    "review": {
+      "name": "John Burgess",
+      "rating": 5,
+      "excerpt": "Thorough preparation and great attention to detail.",
+      "url": "https://www.google.com/maps/contrib/110196861637734664425/reviews?hl=en-GB",
+      "verified_on": "2026-11-16"
+    },
+    "shared_project_group": "stamford-hill-john-burgess"
+  },
+  {
+    "id": "shower-room",
+    "title": "Protect, prepare, decorate",
+    "service": "bathroom-refurbishments",
+    "text": "Protected fittings, preparation and a later view of the shower room. These photographs document the decorating stages; the scope of a new project is agreed separately.",
+    "photos": [
+      {
+        "slug": "project-story-200",
+        "caption": "Fittings protected during preparation",
+        "source_photo_id": 200
+      },
+      {
+        "slug": "project-story-203",
+        "caption": "Decorating in progress",
+        "source_photo_id": 203
+      },
+      {
+        "slug": "project-story-212",
+        "caption": "The room after decorating",
+        "source_photo_id": 212
+      }
+    ],
+    "work_shown": [
+      "Protection around existing fittings",
+      "Preparation and decorating around the shower room"
+    ],
+    "service_label": "Bathroom refurbishment"
+  },
+  {
+    "id": "coral-room",
+    "title": "Coral colour and built-in details",
+    "service": "painting-decorating",
+    "text": "Two views of a room with coral-painted shelving and a chimney wall, alongside lighter walls and a dark fireplace. A closer look at colour and the details around it.",
+    "photos": [
+      {
+        "slug": "project-story-064",
+        "caption": "Coral wall and shelving detail",
+        "source_photo_id": 64
+      },
+      {
+        "slug": "project-story-065",
+        "caption": "The colour in its room setting",
+        "source_photo_id": 65
+      }
+    ],
+    "work_shown": [
+      "Coral colour on the chimney wall and shelving",
+      "Painted details alongside the lighter room walls"
+    ],
+    "service_label": "Painting & decorating",
+    "area": "Crouch End, N8",
+    "review": {
+      "name": "Julian Smilg",
+      "rating": 5,
+      "excerpt": "Delighted to have selected Landi to work on my flat.",
+      "url": "https://www.google.com/maps/contrib/113747680403038343533/reviews?hl=en-GB",
+      "verified_on": "2026-11-16",
+      "mapping_confirmed_by": "owner",
+      "shared_project_group": "crouch-end-coral-and-terrace"
+    },
+    "page": "/projects/crouch-end-redecoration/"
+  },
+  {
+    "id": "textured-wallpaper",
+    "title": "Texture on a bedroom wall",
+    "service": "wallpapering",
+    "text": "Close and wider views of the same textured wallpaper feature wall. Protection and tools remain visible while work in the room is being completed.",
+    "photos": [
+      {
+        "slug": "wallpaper",
+        "caption": "Textured wallpaper detail"
+      },
+      {
+        "slug": "textured-bedroom-wallpaper-context-photo",
+        "caption": "Feature wall in its room setting"
+      }
+    ],
+    "work_shown": [
+      "Textured bedroom feature wallpaper",
+      "Details where the wallcovering meets dark panelling"
+    ],
+    "area": "Vauxhall",
+    "service_label": "Wallpapering"
+  },
+  {
+    "id": "staircase",
+    "title": "A staircase, finished in the details",
+    "service": "painting-decorating",
+    "text": "White panelling and balusters frame the timber staircase, with grey walls completing the hallway. Three views focus on the painted woodwork and the space around it.",
+    "photos": [
+      {
+        "slug": "hallway",
+        "caption": "Hallway and staircase"
+      },
+      {
+        "slug": "staircase-panelling-detail-photo",
+        "caption": "Panelling detail"
+      },
+      {
+        "slug": "staircase-balustrade-photo",
+        "caption": "Balustrade and timber handrail"
+      }
+    ],
+    "work_shown": [
+      "Painted panelling and balusters",
+      "Hallway walls around the timber staircase"
+    ],
+    "service_label": "Painting & decorating"
+  },
+  {
+    "id": "kitchen",
+    "title": "Timber details in a bright kitchen",
+    "service": "full-refurbishments",
+    "text": "Timber worktops, open shelves, white cabinetry and grey tiles, shown close up and in the wider kitchen during the finishing stage.",
+    "photos": [
+      {
+        "slug": "timber-worktop-finishing-photo",
+        "caption": "Worktop and shelving detail"
+      },
+      {
+        "slug": "kitchen",
+        "caption": "Kitchen during finishing"
+      }
+    ],
+    "work_shown": [
+      "Timber worktops and open shelves",
+      "The wider kitchen during finishing"
+    ],
+    "service_label": "Property refurbishment",
+    "area": "E17",
+    "page": "/projects/e17-kitchen/",
+    "review": {
+      "name": "Kevin Paskins",
+      "rating": 5,
+      "excerpt": "The quoting process is thorough and clear",
+      "url": "https://www.google.com/maps/contrib/105469110371187069428/reviews?hl=en-GB",
+      "verified_on": "2026-11-16",
+      "mapping_confirmed_by": "owner"
+    }
+  },
+  {
+    "id": "red-bathroom",
+    "title": "A compact bathroom, taking shape",
+    "service": "bathroom-refurbishments",
+    "text": "From strip-out and floor access to red floor tiles and the fittings in place. These photographs follow the same bathroom project through its construction stages.",
+    "photos": [
+      {
+        "slug": "bathroom-stripout-progress-photo",
+        "caption": "Strip-out and floor access"
+      },
+      {
+        "slug": "red-bathroom-tiling-progress-photo",
+        "caption": "Floor tiling in progress"
+      },
+      {
+        "slug": "wc-refurbishment-progress-photo",
+        "caption": "Room at the finishing stage"
+      }
+    ],
+    "work_shown": [
+      "Strip-out and preparation with floor access",
+      "Tiling and fittings during the later stages"
+    ],
+    "service_label": "Bathroom refurbishment",
+    "area": "Leyton, E10",
+    "review": {
+      "name": "Menna Cominetti",
+      "rating": 5,
+      "excerpt": "He communicates brilliantly",
+      "url": "https://www.google.com/maps/contrib/108995710723913924642/reviews?hl=en-GB",
+      "verified_on": "2026-11-16",
+      "mapping_confirmed_by": "owner"
+    },
+    "page": "/projects/leyton-bathroom/"
+  }
+]
