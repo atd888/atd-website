@@ -3,7 +3,7 @@
   "indexing_enabled": true,
   "google_site_verification": "lMQAYLGx2IGsC6NsyqMjwfkP2LRn2gEYQWFtW-vH2dQ",
   "page_last_modified": {
-    "/": "2026-11-21",
+    "/": "2026-11-22",
     "/about/": "2026-11-17",
     "/painting-decorating/": "2026-11-17",
     "/wallpapering/": "2026-11-17",
@@ -17,7 +17,16 @@
     "/areas/muswell-hill/": "2026-11-21",
     "/areas/highgate/": "2026-11-21",
     "/areas/harringay/": "2026-11-21",
-    "/areas/wood-green/": "2026-11-21"
+    "/areas/wood-green/": "2026-11-21",
+    "/areas/": "2026-11-22",
+    "/areas/islington/": "2026-11-22",
+    "/areas/camden/": "2026-11-22",
+    "/areas/hampstead/": "2026-11-22",
+    "/areas/finchley/": "2026-11-22",
+    "/areas/tottenham/": "2026-11-22",
+    "/areas/stoke-newington/": "2026-11-22",
+    "/areas/kensington-chelsea/": "2026-11-22",
+    "/areas/notting-hill/": "2026-11-22"
   },
   "bing_site_verification": "7E562A382AC4FA08F6DA3757758D0E30"
 }

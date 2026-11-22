@@ -60,6 +60,99 @@ LOCAL = {
          'For homeowners, send photos of each room and any marks, cracks or damp patches you have noticed. These affect how much preparation is needed, which is set out in your quotation.']),
 }
 
+AREA_PAGES.update({
+ '/areas/islington/': {
+  'title':'Painters & Decorators in Islington N1, N5 & N7',
+  'description':'Painting, decorating and wallpapering in Islington from ATD, based in Hornsey N8. Georgian and Victorian homes, flats and lets. Fully insured, free written quotes.',
+  'label':'Islington', 'image_slug':'staircase-panelling-detail-photo',
+ },
+ '/areas/camden/': {
+  'title':'Painters & Decorators in Camden Town & NW1',
+  'description':'Painting, decorating and wallpapering in Camden Town, Kentish Town and NW1 from ATD North London Painters. Fully insured, 5.0 on Google, free written quotes.',
+  'label':'Camden', 'image_slug':'dining-room-refresh-photo',
+ },
+ '/areas/hampstead/': {
+  'title':'Painters & Decorators in Hampstead NW3',
+  'description':'Interior decorating, wallpaper hanging and exterior painting in Hampstead and Belsize Park NW3 from ATD. Careful preparation, fully insured, free written quotes.',
+  'label':'Hampstead', 'image_slug':'white-bay-windows-photo',
+ },
+ '/areas/finchley/': {
+  'title':'Painters & Decorators in Finchley N3 & N12',
+  'description':'Painting, decorating and wallpapering in Finchley and East Finchley from ATD, based nearby in Hornsey N8. Houses, flats and lets. Free written quotations.',
+  'label':'Finchley', 'image_slug':'furnished-white-living-room-photo',
+ },
+ '/areas/tottenham/': {
+  'title':'Painters & Decorators in Tottenham N15 & N17',
+  'description':'Painting, decorating and wallpapering in Tottenham from ATD, based nearby in Hornsey N8. Homes, flats and refreshes between tenancies. Free written quotes.',
+  'label':'Tottenham', 'image_slug':'room-decorating-progress-photo',
+ },
+ '/areas/stoke-newington/': {
+  'title':'Painters & Decorators in Stoke Newington N16',
+  'description':'Painting, decorating and exterior work in Stoke Newington and Stamford Hill N16 from ATD. See a real N16 project with the customer’s review. Free quotes.',
+  'label':'Stoke Newington', 'image_slug':'green-entrance-finish-photo',
+ },
+ '/areas/kensington-chelsea/': {
+  'title':'Painters & Decorators in Kensington & Chelsea',
+  'description':'Interior decorating, wallpaper hanging and exterior painting in Kensington and Chelsea from ATD North London Painters. Fully insured, free written quotations.',
+  'label':'Kensington & Chelsea', 'image_slug':'textured-bedroom-wallpaper-context-photo',
+ },
+ '/areas/notting-hill/': {
+  'title':'Painters & Decorators in Notting Hill W11',
+  'description':'Painting, decorating and wallpapering in Notting Hill W11 from ATD North London Painters. Period homes, flats and house fronts. Fully insured, free written quotes.',
+  'label':'Notting Hill', 'image_slug':'blue-front-door-photo',
+ },
+})
+
+_LONDON_BASE='ATD North London Painters is based in Hornsey N8 and takes on painting and decorating work across London.'
+_LONDON_COVER='Yes. We are based in Hornsey N8 and work across London. Send your postcode and we will confirm the details, including parking and access.'
+LOCAL.update({
+ '/areas/islington/': dict(name='Islington', code='N1 · N5 · N7',
+  intro='ATD North London Painters is based in Hornsey N8, a short drive from Islington. We decorate houses and flats across N1, N5 and N7: single rooms, hallways and staircases, wallpaper feature walls and house fronts.',
+  head='Georgian and Victorian homes.<br><em>Finished with care.</em>',
+  local=['Many Islington homes are Georgian or Victorian terraces with tall ceilings, cornicing, sash windows and long staircases. Good results on these features come from preparation: filling, sanding, careful cutting-in and protecting original floors.',
+         'Much of Islington is in conservation areas. If you want to change the colour of a front door, railings or the front of the house, check whether any restrictions apply before work is booked.']),
+ '/areas/camden/': dict(name='Camden', code='NW1 · NW5',
+  intro='ATD North London Painters is based in Hornsey N8 and covers Camden Town, Kentish Town and the surrounding NW1 and NW5 streets. We decorate houses and flats, from a single room to a whole property.',
+  head='Houses and flats.<br><em>A clean, lasting finish.</em>',
+  local=['Camden has a mix of Victorian terraces, converted flats and newer apartments. For flats, tell us about access, lifts, parking and any building rules on working hours, so the job can be planned properly.',
+         'For landlords and letting agents, we can refresh a property between tenancies room by room, with hard-wearing finishes chosen for everyday use.'],
+  base=_LONDON_BASE, cover=_LONDON_COVER),
+ '/areas/hampstead/': dict(name='Hampstead', code='NW3',
+  intro='ATD North London Painters is based in Hornsey N8 and works in Hampstead and Belsize Park. We take on interior decorating, wallpaper hanging and exterior painting for houses and flats across NW3.',
+  head='Period character.<br><em>Careful preparation.</em>',
+  local=['Hampstead’s period houses often have panelled doors, decorative mouldings, sash windows and high ceilings. These surfaces need patient preparation before any paint goes on, and that preparation is listed in your written quotation.',
+         'Much of Hampstead is in conservation areas. If you are planning changes to the front of the house, check whether any restrictions apply before work is booked.'],
+  base=_LONDON_BASE, cover=_LONDON_COVER),
+ '/areas/finchley/': dict(name='Finchley', code='N2 · N3 · N12',
+  intro='ATD North London Painters is based in Hornsey N8, a short drive from Finchley. We decorate houses and flats in East Finchley, Finchley Central and North Finchley, from a single room to the whole house.',
+  head='Family homes.<br><em>Room by room.</em>',
+  local=['Many Finchley homes are family houses where people keep living while the work happens. Tell us which rooms need to stay usable, and we can plan the work in a sensible order around you.',
+         'Send photos of each room and any cracks, marks or damp patches you have noticed. These affect how much preparation is needed, which is set out in your quotation.']),
+ '/areas/tottenham/': dict(name='Tottenham', code='N15 · N17',
+  intro='ATD North London Painters is based in Hornsey N8, close to Tottenham. We decorate houses and flats across N15 and N17 for homeowners and landlords, including refreshes between tenancies.',
+  head='Homes and lets.<br><em>A durable finish.</em>',
+  local=['For landlords, tell us when the property will be empty and which rooms are included. A refresh between tenancies can be planned room by room, with finishes chosen to stand up to everyday wear.',
+         'For homeowners, send photos of each room and any marks or damage. Being close by, we can usually come and look at the job if a visit is needed before a final quotation.']),
+ '/areas/stoke-newington/': dict(name='Stoke Newington', code='N16',
+  intro='ATD North London Painters is based in Hornsey N8 and works across Stoke Newington and Stamford Hill. We decorate houses and flats in N16, inside and out.',
+  head='Inside and out.<br><em>A real N16 project.</em>',
+  local=['In Stamford Hill N16 we decorated an entrance, glazed doors and finishing details for John Burgess, who reviewed us on Google for “thorough preparation and great attention to detail”.',
+         'Stoke Newington’s Victorian terraces often have long hallways, staircases and timber sash windows. Tell us which surfaces need work and send photos so we can discuss the preparation needed.'],
+  link=('/projects/stamford-hill-exterior/','See the Stamford Hill N16 project and review ↗')),
+ '/areas/kensington-chelsea/': dict(name='Kensington & Chelsea', code='W8 · SW3 · SW10',
+  intro='ATD North London Painters takes on painting, decorating and wallpapering work in Kensington and Chelsea. We decorate houses and flats, from a single feature wall to a whole property.',
+  head='High standards.<br><em>A careful finish.</em>',
+  local=['Period houses and mansion flats in Kensington and Chelsea often have detailed mouldings, panelling and high ceilings. The finish depends on preparation, so your written quotation lists exactly what is included.',
+         'For flats, tell us about building access, parking, lifts and any managing-agent rules on working hours. Much of the borough is in conservation areas, so check any restrictions before planning exterior colour changes.'],
+  base=_LONDON_BASE, cover=_LONDON_COVER),
+ '/areas/notting-hill/': dict(name='Notting Hill', code='W11',
+  intro='ATD North London Painters takes on painting, decorating and wallpapering work in Notting Hill. We decorate houses and flats in W11, inside and out.',
+  head='Colourful streets.<br><em>Well-prepared surfaces.</em>',
+  local=['Notting Hill’s stucco-fronted houses and painted terraces need the right preparation and exterior coatings to last, and safe access planned in advance. We cover all of this in your written quotation.',
+         'Much of Notting Hill is in conservation areas. If you are planning to change the colour of a front door or the front of the house, check whether any restrictions apply before work is booked.'],
+  base=_LONDON_BASE, cover=_LONDON_COVER),
+})
+
 def area_content(route, button, faq):
  if route in LOCAL:
   return local_area_content(route, button, faq)
@@ -83,10 +176,10 @@ def area_content(route, button, faq):
 def local_area_content(route, button, faq):
  a=LOCAL[route]; name=a['name']
  body='<section class="page-intro wrap"><p class="kicker">ATD NORTH LONDON PAINTERS · '+escape(a['code'])+'</p><h1>Painters &amp; decorators<br><em>in '+escape(name)+'.</em></h1><p class="lead">'+escape(a['intro'])+'</p><p class="hero-service-line">Fully insured · 8+ years’ experience · 5.0 on Google from 23 reviews</p>'+button('Request a free quote')+'</section>'
- body+='<section class="wrap project-start"><div><p class="kicker">DECORATING IN '+escape(name.upper())+'</p><h2>'+a['head']+'</h2></div><div>'+''.join('<p>'+escape(t)+'</p>' for t in a['local'])+'<a class="text-link" href="/#before-after">See before-and-after photos of our work ↗</a></div></section>'
+ body+='<section class="wrap project-start"><div><p class="kicker">DECORATING IN '+escape(name.upper())+'</p><h2>'+a['head']+'</h2></div><div>'+''.join('<p>'+escape(t)+'</p>' for t in a['local'])+'<a class="text-link" href="'+a.get('link',('/#before-after',''))[0]+'">'+escape(a.get('link',('','See before-and-after photos of our work ↗'))[1])+'</a></div></section>'
  scopes=[('Painting & decorating','/painting-decorating/','Walls, ceilings, doors, skirting and staircases, from one room to the whole house.'),('Wallpapering','/wallpapering/','Feature walls and full rooms. Send your chosen paper, the wall sizes and whether old paper needs removing.'),('Exterior painting','/exterior-painting/','Front doors, timber windows, render and railings, with preparation and access planned in the quotation.')]
  body+='<section class="section wrap local-services"><p class="kicker">WHAT WE DO IN '+escape(name.upper())+'</p><h2>Services in '+escape(name)+'</h2><div class="local-service-grid">'+''.join('<article><h3><a href="'+url+'">'+label+' ↗</a></h3><p>'+text+'</p></article>' for label,url,text in scopes)+'</div><p class="also-offer">Also: <a href="/bathroom-refurbishments/">bathroom refurbishments ↗</a> and <a href="/full-refurbishments/">full refurbishments ↗</a>.</p></section>'
  body+='<section class="section wrap"><div class="section-heading"><div><p class="kicker">GET A QUICK, ACCURATE QUOTE</p><h2>What to send us.</h2></div><p>A visit may be needed before a final written quotation.</p></div><div class="process-grid"><article><span class="step">01</span><h3>Postcode & photos</h3><p>Your '+escape(a['code'])+' postcode, a wide photo of each room or surface, and close-ups of any damage.</p></article><article><span class="step">02</span><h3>What you want done</h3><p>Which walls, ceilings, woodwork or surfaces are included, and roughly how big the rooms are.</p></article><article><span class="step">03</span><h3>Timing & finishes</h3><p>When you would like the work done, and any paint colours or wallpaper you have chosen.</p></article></div></section>'
- body+='<section class="section faq-section"><div class="wrap faq-grid"><div><p class="kicker">BEFORE YOU ENQUIRE</p><h2>Your '+escape(name)+' project.</h2></div>'+faq([('Do you cover all of '+name+'?','Yes. We are based nearby in Hornsey N8. Send your postcode and we will confirm coverage and discuss access and parking.'),('Are you insured?','Yes. ATD is fully insured, and Landi has more than 8 years of painting and decorating experience.'),('Is the quotation free?','Yes. Call 07557 954457, send photos on WhatsApp or use the online form. Your written quotation lists the preparation, materials and finish included.'),('Does sending the form confirm a booking?','No. Your request goes straight to Landi to review, and no email confirmation is needed. Work starts only after the scope, price and arrangements are agreed.')])+'</div></section>'
- body+='<section class="connect wrap"><h2>Discuss your '+escape(name)+' project.</h2><p>Call or WhatsApp 07557 954457. ATD North London Painters is based in Hornsey N8 and covers '+escape(name)+' and nearby North London.</p>'+button('Send photos on WhatsApp','https://wa.me/447557954457','outline')+'<p class="fine"><a href="/areas/">All areas we cover ↗</a></p></section>'
+ body+='<section class="section faq-section"><div class="wrap faq-grid"><div><p class="kicker">BEFORE YOU ENQUIRE</p><h2>Your '+escape(name)+' project.</h2></div>'+faq([('Do you cover all of '+name+'?',a.get('cover','Yes. We are based nearby in Hornsey N8. Send your postcode and we will confirm coverage and discuss access and parking.')),('Are you insured?','Yes. ATD is fully insured, and Landi has more than 8 years of painting and decorating experience.'),('Is the quotation free?','Yes. Call 07557 954457, send photos on WhatsApp or use the online form. Your written quotation lists the preparation, materials and finish included.'),('Does sending the form confirm a booking?','No. Your request goes straight to Landi to review, and no email confirmation is needed. Work starts only after the scope, price and arrangements are agreed.')])+'</div></section>'
+ body+='<section class="connect wrap"><h2>Discuss your '+escape(name)+' project.</h2><p>Call or WhatsApp 07557 954457. '+escape(a.get('base','ATD North London Painters is based in Hornsey N8 and covers '+name+' and nearby North London.'))+'</p>'+button('Send photos on WhatsApp','https://wa.me/447557954457','outline')+'<p class="fine"><a href="/areas/">All areas we cover ↗</a></p></section>'
  return body
