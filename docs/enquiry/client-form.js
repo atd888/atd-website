@@ -171,7 +171,7 @@
   event.preventDefault();if(sending||saved)return;if(currentStep<3){if(validateStep(currentStep))showStep(currentStep+1);return;}
   for(let step=0;step<3;step++){if(!validateStep(step)){showStep(step);return;}}
   const {contact,details}=collect();let payload;try{payload=schema.toPayload(contact,details,$('website').value);}catch(error){showError(error.message);return;}
-  if(!ready()){showError('Preview only: no enquiry or verification email has been sent. You can review the form here, or contact Landi on 07557 954457.');return;}
+  if(!ready()){showError('Preview only: no enquiry or verification email has been sent. You can review the form here, or contact ATD on 07557 954457.');return;}
   sending=true;$('submitBtn').disabled=true;$('submitBtn').textContent='Sending enquiry…';clearErrors();
   try{
    const data=await callFunction(payload);
